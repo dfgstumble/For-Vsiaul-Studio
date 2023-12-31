@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&display=swap');
 body {
   background-color: orange;
   color: red;
-  font-family: "Calibri", sans-serif;
+  font-family: 'Monsieur La Doulaise', cursive;
   font-size: 32pt;
 }
